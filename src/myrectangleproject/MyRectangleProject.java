@@ -60,4 +60,11 @@ public class MyRectangleProject
         return input.equalsIgnoreCase("yes");
     }
     
+    public static void HelloWorld()
+            
+    {
+      System.out.println("\u001B[36m hello : ");  
+    }
+    
+    
 }
