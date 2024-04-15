@@ -63,7 +63,7 @@ public class MyRectangleProject
     public static void HelloWorld()
             
     {
-      System.out.println("\u001B[36m hello : ");  
+      System.out.println("\u001B[36m hello  : ");  
     }
     
     
